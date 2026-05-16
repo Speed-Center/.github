@@ -1,1 +1,1 @@
-![Speed Center](sc.png)
+![Speed Center](sclogo.png)
